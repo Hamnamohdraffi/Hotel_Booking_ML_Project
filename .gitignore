@@ -1,0 +1,26 @@
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local dataset (download separately from Kaggle)
+data/hotel_bookings.csv
