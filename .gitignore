@@ -24,3 +24,5 @@ Thumbs.db
 
 # Local dataset (download separately from Kaggle)
 data/hotel_bookings.csv
+
+data/*.csv
