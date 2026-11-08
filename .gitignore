@@ -26,3 +26,10 @@ Thumbs.db
 data/hotel_bookings.csv
 
 data/*.csv
+
+# Ignore virtual environment
+.venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
